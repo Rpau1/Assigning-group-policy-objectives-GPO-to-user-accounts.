@@ -1,0 +1,1 @@
+# Assigning-group-policy-objectives-GPO-to-user-accounts.
