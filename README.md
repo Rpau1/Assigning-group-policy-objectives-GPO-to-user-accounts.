@@ -1,5 +1,16 @@
 # Assigning-group-policy-objectives-GPO-to-user-accounts.
-This builds upon the previous system administration project we did on the Active Directory.
+
+- Make a Group Policy Object(GPO)
+
+- Add a policy(removes the clock from the task bar in user account) in that GPO.
+
+- Make an Orgonizational Unit(OU).
+
+- Add an user to it.
+
+- Link the new GPO to that OU
+
+*This builds upon the previous System Administration project we did on the Active Directory.
 
 1) Log into the DC VM as an administrtor and open up  server manager.
 2) Next, creating GPO: Tools>group policy management console>expand domain> expand group policy object> right click on group policy object> new> name it "Sample1 GPO"
